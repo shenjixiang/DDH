@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\DDHproject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "outputFile": "C:\\DDH\\DDHproject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\94760\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\444dbb6093f1a6eca7e45c447bd810a4\\res\\values-mn\\values-mn.xml",
