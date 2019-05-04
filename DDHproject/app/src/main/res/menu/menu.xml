@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@mipmap/homefill"
+        android:title="@string/homepage"></item>
+    <item
+        android:id="@+id/item2"
+        android:icon="@mipmap/alertfill"
+        android:title="@string/shequ"></item>
+    <item
+        android:id="@+id/item3"
+        android:icon="@mipmap/notificationfill"
+        android:title="@string/fuwu"></item>
+    <item
+        android:id="@+id/item4"
+        android:icon="@mipmap/user"
+        android:title="@string/mine"></item>
+
+</menu>

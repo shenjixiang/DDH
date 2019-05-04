@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DDHproject</string>
+
+    <string name="mine">我的</string>
+    <string name="fuwu">服务</string>
+    <string name="homepage">首面</string>
+
+    <string name="shequ">社区</string>
+
 </resources>
